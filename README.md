@@ -68,3 +68,7 @@ Otto bipedal robot programmed for the Dallas Personal Robotics Group (DPRG) Quic
 - Improved calibration process for competition reliability
 - Organized repository for multi-year development
 - Added serial plotter output for real-time visualization
+
+## Repository Status
+- Created: [Today's date]
+- Status: Active development for 2025 competition
